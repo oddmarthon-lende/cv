@@ -1,0 +1,193 @@
+{
+
+  "name" : "Odd Marthon Lende",
+  "title" : "Web Developer",
+  "contact" : [
+    "Spilderhaugsmauet 3",
+    "4014 Stavanger",
+    "Norway",
+    "<a href=\"oddmarthon.lende@me.com\">oddmarthon.lende@me.com</a>",
+    "+4746917675"
+  ],
+  "description" : [
+    "I am a self-taught <span class=\"age\"></span> years old male and have been learning and making web sites for about 20 years as a hobby.",
+    "In the beginning it was mostly graphics created in Photoshop, then I learned a some PHP and used it for functional programming. I didn't know object-oriented programming at the time.",
+    "In my last job I created a web application for the company, a document store/search and blog. This is when I learned SQL, Javascript and C#. Created my own search engine that I eventually replaced with Apache Solr. It worked, but it wasn't any good.",
+    "When I didn't do technical support I used my time to write, this is how I learned. I liked writing code better than my other job tasks. Also wrote SQL scripts and some small software tools.",
+    "Understands computer architecture and how software works (C, C++, Stack, Heap, Memory pointers, Dynamic Linking,  etc). Played around with electronic components and a micro-controller board for a while and made a LED matrix, then I got tired of it.",
+    "I learned a lot in my last job and from the internet (Youtube, MIT Open Courseware, Microsoft Virtual Academy, Google etc)",
+    "After I lost my job I discovered cryptocurrency and Ethereum the decentralized world computer and Swarm decentralized peer-to-peer storage. A platform for creating decentralized web applications on a blockchain. I liked the idea to be able to write a static web application that is completely in the hands of the users and is hosted on a decentralized peer-to-peer network. I had some ideas for applications on the platform and started writing an app where users are incentivised with cryptocurrency to share audio samples and discovered it's limitations... ",
+    "I'm a life long learner and have had an interest in computing since I got my first computer when I was about 16 years old."
+
+  ],
+  "experience" : [
+    {
+      "company" : "Baker Hughes Incorporated.",
+      "title" : "Technical Support Engineer II",
+      "start" : "July 2008",
+      "end" : "Desember 2016",
+      "description" : [
+        "Responsible for Directional Drilling reporting software support and database administrator. Developer and administrator of new intranet site. Generic PC software and network support. Scripting."
+      ]
+    },
+    {
+      "company" : "TDC AS",
+      "title" : "Support",
+      "start" : "April 2008",
+      "end" : "May 2008",
+      "description" : [
+        "Just registering incidents and creating tickets"
+      ]
+    },
+    {
+      "company" : "Gosen Skole",
+      "title" : "IT Technician",
+      "start" : "April 2007",
+      "end" : "Desember 2007",
+      "description" : []
+    },
+    {
+      "company" : "Gosen Skole",
+      "title" : "Assistant",
+      "start" : "April 2007",
+      "end" : "Desember 2007",
+      "description" : [
+        "Teacher assistant and working with mentally challenged kids after school"
+      ]
+    },
+    {
+      "company" : "Buøy Skole",
+      "title" : "IT consultant and environmental worker",
+      "start" : "April 2005",
+      "end" : "April 2006",
+      "description" : []
+    },
+    {
+      "company" : "Falck",
+      "title" : "Security Guard",
+      "start" : "October 2004",
+      "end" : "October 2004",
+      "description" : [
+        "Working at ONS event in Stavanger"
+      ]
+    },
+    {
+      "company" : "ISS Renhold",
+      "title" : "Cleaner",
+      "start" : "November 2001",
+      "end" : "Desember 2001",
+      "description" : []
+    },
+    {
+      "company" : "Stjernelaks AS",
+      "title" : "Production worker",
+      "start" : "Mars 2001",
+      "end" : "May 2001",
+      "description" : []
+    },
+    {
+      "company" : "ISS Renhold",
+      "title" : "Cleaner",
+      "start" : "June 2000",
+      "end" : "August 2000",
+      "description" : []
+    },
+    {
+      "company" : "Statens Vegvesen",
+      "title" : "Printing",
+      "start" : "June 1999",
+      "end" : "August 1999",
+      "description" : []
+    },
+    {
+      "company" : "Stavanger Kommune",
+      "title" : "Cleaner",
+      "start" : "August 1998",
+      "end" : "August 1998",
+      "description" : []
+    }
+
+  ],
+  "skills" : [
+    "Javascript",
+    "Typescript",
+    "HTML5",
+    "CSS",
+    "Sass",
+    "React",
+    "Angular",
+    "GraphQL",
+    "Webpack",
+    "Babel",
+    "Gulp",
+    "JSON",
+    "C#",
+    "Photoshop",
+    "SVG",
+    "Linux",
+    "Unix",
+    "MacOS",
+    "Docker",
+    "AWS",
+    "Heroku",
+    "D3.js",
+    "jQuery",
+    "Node",
+    "Express",
+    "PHP",
+    "Git",
+    "Github",
+    "Database",
+    "OOP",
+    "Design",
+    "TCP/IP",
+    "NoSQL",
+    "Windows",
+    "WPF",
+    ".NET",
+    "MongoDB",
+    "NoSQL",
+    "Docker",
+    "Database design",
+    "Cryptocurrency",
+    "T-SQL Stored Procedures",
+    "Redis",
+    "Zsh",
+    "XAML",
+    "Solidity",
+    "JSX",
+    "Powershell",
+    "Technical Support",
+    "Computer Networking"
+  ],
+  "education" : [
+    {
+      "school" : "Team Treehouse",
+      "subject" : "Full Stack Javascript",
+      "start" : "",
+      "end" : "Current"
+    },
+    {
+      "school" : "IT Akademiet / LearnIT",
+      "subject" : "IT Security / Cisco CCNA",
+      "start" : "August 2005",
+      "end" : "June 2006"
+    },
+    {
+      "school" : "Stavanger Katedralskole",
+      "subject" : "Mathematics and Natural Science",
+      "start" : "August 2003",
+      "end" : "June 2004"
+    }
+  ],
+  "hobbies" : [
+    "Music",
+    "Guitar",
+    "Bass",
+    "Band",
+    "Learning",
+    "Cryptocurrency"
+
+  ]
+
+}
