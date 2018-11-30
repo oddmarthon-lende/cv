@@ -11,7 +11,7 @@
   ],
   "description" : [
     "I am a self-taught <span class=\"age\"></span> years old male and have been learning and making web sites for about 20 years as a hobby.",
-    "In the beginning it was mostly graphics created in Photoshop, then I learned a some PHP and used it for functional programming. I didn't know object-oriented programming at the time.",
+    "In the beginning it was mostly graphics created in Photoshop, then I learned some PHP and used it for functional programming. I didn't know object-oriented programming at the time.",
     "In my last job I created a web application for the company, a document store/search and blog. This is when I learned SQL, Javascript and C#. Created my own search engine that I eventually replaced with Apache Solr. It worked, but it wasn't any good.",
     "When I didn't do technical support I used my time to write, this is how I learned. I liked writing code better than my other job tasks. Also wrote SQL scripts and some small software tools.",
     "Understands computer architecture and how software works (C, C++, Stack, Heap, Memory pointers, Dynamic Linking,  etc). Played around with electronic components and a micro-controller board for a while and made a LED matrix, then I got tired of it.",
